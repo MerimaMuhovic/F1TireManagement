@@ -1,0 +1,12 @@
+//
+//  Test.xcconfig
+//
+
+BUNDLE_NAME = F1 Tire Managment
+BUNDLE_IDENTIFIER = com.F1TireManagment.Test
+BUNDLE_VERSION = 1.0.0
+BUNDLE_BUILD = 1
+
+IS_APP_ICON = AppIconTest
+
+
